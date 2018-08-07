@@ -1,6 +1,6 @@
-# demo
+# component
 
-> Component
+> A Vue.js project
 
 ## Build Setup
 
